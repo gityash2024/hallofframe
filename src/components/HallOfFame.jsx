@@ -291,7 +291,7 @@ const HallOfFame = () => {
         <OceanContainer>
           <AnimatedOcean />
           <Header>
-            <h1 className="text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-200 to-white">
+            <h1 style={{color:"#010181"}} className="text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-200 to-white">
               Innovation Hall of Fame
             </h1>
           </Header>
